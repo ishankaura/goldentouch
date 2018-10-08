@@ -7,3 +7,5 @@
  */
 
 echo phpinfo();
+
+echo date();
